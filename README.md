@@ -1,4 +1,4 @@
-# HesapMakinesiTasarimi
+# Hesap Makinesi Tasarımı
 Tasarım olarak yapılan ve arka plan kodları yazılmaya hazır hale getirilen bir projedir. 
 İndirip işlem komutlarını yazarak kullanabilirsiniz.
 Ara ara güncellemeler, tasarım iyileştirmeleri olacaktır.
